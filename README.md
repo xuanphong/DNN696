@@ -19,6 +19,12 @@ DEEP NEURAL NETWORK method is a second methods using to compare. The black-end f
 # III: EXPLORE THE DATA AND CREATE THE MODELS:
 Expore the data from the raw dataset, create a graphs
 Create seperated dataset for each Male and Female.
-CReate the models
+Create the models, please see documents in this directory. THe document have more detail about the final project.
 
+# III: REsults
+Please see documents.
+
+# IV CONCLUSIONS:
+Based on the graph, Deep Neural Network produces more accurate then LMS Regression. The graph show that, the older age will pay more heath care insurance cost in a year. 
+Deep Learning is a powerful tool to analyze data and predict the data. But it's very chanlenging becuase the technique is more difficult to work then machine learning. Deep learning is a real chanlenging technique.
 
