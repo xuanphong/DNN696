@@ -1,0 +1,14 @@
+package ‘R.oo’ successfully unpacked and MD5 sums checked
+package ‘R.methodsS3’ successfully unpacked and MD5 sums checked
+package ‘rtf’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\paul\AppData\Local\Temp\Rtmp8ILkaT\downloaded_packages
+package ‘rtf’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\paul\AppData\Local\Temp\Rtmp8ILkaT\downloaded_packages
+package ‘rtf’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\paul\AppData\Local\Temp\Rtmp8ILkaT\downloaded_packages
