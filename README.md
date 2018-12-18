@@ -13,3 +13,9 @@ Deep Learning is very subject. In this project, Deep Learning is applied to pred
  •	This is a big milestone for this project.  Because TensorFlow is the main step entitle the project. 
 #
 # II: METHODOLOGIES:
+LAMDA-MU-SIGMA method is used to applied for the Regression.  General Additive Models is a frame work for this regression.
+DEEP NEURAL NETWORK method is a second methods using to compare. The black-end for running DEEP NEURAL NETWROK is Tensorflow Deep Learning.
+#
+# III: EXPLORE THE DATA AND CREATE THE MODELS:
+
+
