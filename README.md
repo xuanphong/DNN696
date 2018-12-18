@@ -7,6 +7,7 @@ Deep Learning is very subject. In this project, Deep Learning is applied to pred
 #
 #
 # I: MILESTONES: 
-#•	Overall, collect data and applied some basic analyze to find the relationship between variables in the dataset.  There are three variables are used, “charges”, “age” and “bmi” for this project.
-#•	There are two methods are used in this project. It’s Regression and Deep Neural Network.  Regression is applied under the frame work of Generalized Additive Models (GAM).  In GAM, Lamda-Mu-Sigma is a method that applied to calculate and predict the results.
-#•	This is a big milestone for this project.  Because TensorFlow is the main step entitle the project. 
+# 
+ •	Overall, collect data and applied some basic analyze to find the relationship between variables in the dataset.  There are three variables are used, “charges”, “age” and “bmi” for this project.
+ •	There are two methods are used in this project. It’s Regression and Deep Neural Network.  Regression is applied under the frame work of Generalized Additive Models (GAM).  In GAM, Lamda-Mu-Sigma is a method that applied to calculate and predict the results.
+ •	This is a big milestone for this project.  Because TensorFlow is the main step entitle the project. 
